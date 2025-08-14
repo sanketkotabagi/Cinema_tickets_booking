@@ -1,2 +1,2 @@
-# Cinema_tickets_booking
-Star Cine’MAA’ is a responsive full-stack web application that delivers an intuitive and interactive movie ticket booking experience, combining a visually engaging front-end with a powerful back-end to replicate a real-world online cinema platform.
+# Movie_ticket-booking-system
+Star Cine’MAA’ is a fully responsive, full-stack web application designed to provide a seamless movie ticket booking experience. This project integrates front-end aesthetics with dynamic back-end functionality to simulate a real-world online cinema booking platform.
